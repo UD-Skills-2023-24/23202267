@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YmApcLfC)
+The document includes U-net code for analyzing desert environments and K-means code for land classification, where machine learning can help with site analysis and siting.
